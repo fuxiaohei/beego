@@ -57,3 +57,5 @@ Please see [Documentation](http://beego.me/docs) for more.
 
 beego is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+Change of read me file
